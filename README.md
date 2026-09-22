@@ -1,4 +1,4 @@
-# JavaScript Text Decoder
+# JavaScript Text Encoder and Decoder
 
 A web application that allows users to encode and decode messages using JavaScript.
 
