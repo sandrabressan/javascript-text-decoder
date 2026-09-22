@@ -30,3 +30,5 @@ This project was developed as part of the **ONE Beginner Programming T6 course**
 ## Project Status
 
 This project was completed as part of a programming course and is no longer under active development.
+
+**Note**: The application interface is in Portuguese, as it was originally developed for a Portuguese-speaking audience.
