@@ -1,24 +1,32 @@
-# Text Decoder
+# JavaScript Text Decoder
 
-This is an application that allows you to encode or decode messages. It was developed during the Beginner Programming T6 course - ONE, sponsored by Alura and Oracle.
+A web application that allows users to encode and decode messages using JavaScript.
 
-## Usage Instructions
+This project was developed as part of the **ONE Beginner Programming T6 course**, sponsored by Alura and Oracle.
 
-1. Open the HTML file in a web browser. The application can also be accessed directly through the URL: https://sandrabressan.github.io/javascript-decodificadorTexto/
+## Usage
+
+1. Open the HTML file in a web browser. The application can also be accessed directly through [GitHub Pages](https://sandrabressan.github.io/javascript-text-decoder/).
 2. Enter your message in the field `Enter your message...`
-3. Click the "Encrypt" button to encode the message.
-4. Click the "Decrypt" button to decode the message.
+3. Click the **Encrypt** button to encode the message.
+4. Click the **Decrypt** button to decode the message.
 5. The result will be displayed in the field `Result...`
-6. You can copy the result to the clipboard by clicking the "Copy" button.
+6. Click the **Copy** button to copy the result to the clipboard.
 
-**Note:** Make sure to enter only lowercase letters, without accents or special characters in the field `Enter your message...`
+**Note:** The application requires lowercase letters without accents or special characters.
 
 ## Project Structure
 
-- `index.html`: Contains the HTML structure of the application.
-- `style.css`: Stylesheet for styling the application.
-- `script.js`: Contains the JavaScript code for performing encryption, decryption, and copying to the clipboard.
+* `index.html`: Contains the HTML structure of the application.
+* `styles/`: Contains the CSS files used to style the application.
+* `script.js`: Contains the JavaScript code for encoding, decoding, and copying the result.
 
-## Contributions
+## Technologies
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+* HTML
+* CSS
+* JavaScript
+
+## Project Status
+
+This project was completed as part of a programming course and is no longer under active development.
